@@ -1,3 +1,11 @@
+------------------------------------------------------------
+-- Version: 1.0
+--
+-- Copyright (C) Jondu Solutions 2016.
+--
+-- Programa principal
+------------------------------------------------------------
+
 local calendario = require 'calendario'
 
 local nuevoCalendario = calendario:new ("Calendario", 2)
